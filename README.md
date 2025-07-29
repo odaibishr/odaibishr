@@ -21,7 +21,7 @@ I enjoy:
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
