@@ -5,10 +5,10 @@ I'm a **Flutter & Web App Developer** passionate about crafting high-quality, cr
 I focus on building **fast**, **responsive**, and **intuitive user interfaces** with clean and maintainable code. Whether it's a mobile app or a modern web platform, I aim to deliver **smooth user experiences** that work seamlessly across devices.
 
 I enjoy:
-- 💻 Turning complex ideas into functional, elegant apps
-- 🎯 Writing clean, scalable, and maintainable code
-- 🎨 Following modern UI/UX practices
-- 🚀 Continuously learning and improving
+- Turning complex ideas into functional, elegant apps
+- Writing clean, scalable, and maintainable code
+- Following modern UI/UX practices
+- Continuously learning and improving
 
 ---
 
