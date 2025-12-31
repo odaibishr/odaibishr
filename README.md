@@ -4,6 +4,7 @@ I'm a **Mobile & Web Developer**
 I build apps and ship them.
 
 If an idea pops into my head, chances are I'll start building it right away.
+
 My main tech stack is **Flutter** for mobile and **React, Next, Typescript, Tailwind** for the web.
 
 I like writing clean code, building fast, and shipping projects that actually get used.
