@@ -1,14 +1,18 @@
 # Hi, I'm Odai Beshr 👋
 
-I'm a **Flutter & Web App Developer** passionate about crafting high-quality, cross-platform applications using **Flutter**, **React.js**, and **Next.js**.
+I'm a **Mobile & Web Developer**
+I build apps and ship them.
 
-I focus on building **fast**, **responsive**, and **intuitive user interfaces** with clean and maintainable code. Whether it's a mobile app or a modern web platform, I aim to deliver **smooth user experiences** that work seamlessly across devices.
+If an idea pops into my head, chances are I'll start building it right away.
+My main tech stack is **Flutter** for mobile and **React, Next, Typescript, Tailwind** for the web.
 
-I enjoy:
-- Turning complex ideas into functional, elegant apps
-- Writing clean, scalable, and maintainable code
-- Following modern UI/UX practices
-- Continuously learning and improving
+I like writing clean code, building fast, and shipping projects that actually get used.
+I've got a bunch of projects pinned here and I'm always woking on more.
+
+Fun Facts: 
+- I love anime
+- I enjoy building things and learning new tech
+
 ---
 
 ##  Tech Stack & Tools
