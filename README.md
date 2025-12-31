@@ -1,4 +1,4 @@
-# Hi, I'm Odai Beshr 👋
+# Hi there, I'm Odai Beshr 👋
 
 I'm a **Mobile & Web Developer**
 I build apps and ship them.
