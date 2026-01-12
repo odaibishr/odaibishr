@@ -15,7 +15,6 @@ Fun Facts: 
 - I love anime
 - I enjoy building things and learning new tech
 
----
 ## Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -28,5 +27,5 @@ Fun Facts: 
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
+--
 Let's build something great together!
