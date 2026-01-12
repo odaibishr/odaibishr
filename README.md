@@ -15,7 +15,7 @@ Fun Facts: 
 - I love anime
 - I enjoy building things and learning new tech
 
-
+---
 ## Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
